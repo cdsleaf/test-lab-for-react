@@ -1,9 +1,10 @@
 import React from 'react';
+import LikeDislikeTest from './LikeDislikeTest';
 
 function App() {
   return (
     <div className="App">
-      test
+      <LikeDislikeTest />
     </div>
   );
 }
